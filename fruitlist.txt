@@ -22,7 +22,6 @@ miracle fruit
 pepper
 clementine
 melon
-ugli fruit
 quince
 elderberry
 blackberry
@@ -49,7 +48,6 @@ raisin
 persimmon
 grape
 mulberry
-breadfruit
 rock melon
 salal berry
 tangerine
